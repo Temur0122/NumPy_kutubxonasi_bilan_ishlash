@@ -1,0 +1,1 @@
+# NumPy_kutubxonasi_bilan_ishlash
